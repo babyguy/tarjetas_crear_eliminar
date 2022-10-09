@@ -1,0 +1,31 @@
+.añadir{
+    background-color: red;
+    border: transparent;
+    border-radius: 10px;
+    padding: 5px;
+    color: aliceblue;
+    width: 100px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    text-align: center;
+    align-items: center;
+}
+
+.cardButon{
+    background-color: red;
+    border: transparent;
+    border-radius: 10px;
+    padding: 5px;
+    color: aliceblue;
+    width: 80%;
+}
+/* harod Danilo MQ */
